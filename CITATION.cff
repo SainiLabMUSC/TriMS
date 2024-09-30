@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+date-released: '2024-09-30'
+  authors:
+- family-names: nataliesaini11
+- family-names: SainiLabMUSC
+doi: 10.5281/zenodo.13862689
+license:
+- cc-by-4.0
+repository-code: https://github.com/SainiLabMUSC/TriMS/tree/0.1.0
+title: 'SainiLabMUSC/TriMS: Trinucleotide mutation signature analysis-initial release'
+doi: https://doi.org/10.5281/zenodo.13862689  
+type: software
+version: 0.1.0

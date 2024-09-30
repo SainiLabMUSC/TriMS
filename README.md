@@ -1,3 +1,6 @@
+**#DOI badge**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13862689.svg)](https://doi.org/10.5281/zenodo.13862689)
+
 # TriMS
 
 **Input file** - Must be configured as the example provided. Use same headers.
